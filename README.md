@@ -4,7 +4,7 @@
 
 **¡Congratulations!** This course has been **successfully completed** on September 27, 2025.
 
-![Course Completion Evidence](./evidences/CourseCompleted.png)
+![Course Completion Evidence](./Evidences/CourseCompleted.png)
 
 > **"You've completed Developing Android Apps with Kotlin!"** - Udacity
 
